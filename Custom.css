@@ -34,6 +34,7 @@ http://darcyclarke.me/design/skin-your-chrome-inspector
 	background-color: #272822 !important;
 	font-size: 13px !important;
 	line-height: 14px !important;
+	tab-size: 2 !important;
 }
 
 #-webkit-web-inspector #main-panels .resource-headers-view .source-code {
