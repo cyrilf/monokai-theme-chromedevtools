@@ -266,6 +266,10 @@ http://darcyclarke.me/design/skin-your-chrome-inspector
 	color: #75715E !important;
 }
 
+#-webkit-web-inspector .webkit-execution-line.webkit-line-content {
+	background-color: #3D3D3D !important;
+	outline: 1px solid #535353 !important;
+}
 
 /* CONSOLE
 ----------------------------------------------------------------------------------------------------------*/
