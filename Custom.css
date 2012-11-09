@@ -222,6 +222,9 @@ http://darcyclarke.me/design/skin-your-chrome-inspector
 	color: #c1c1c1 !important;
 }
 
+.styles-element-state-pane > table td {
+  color: #AAA;
+}
 
 /* SCRIPTS
 ----------------------------------------------------------------------------------------------------------*/
