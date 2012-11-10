@@ -188,7 +188,7 @@ http://darcyclarke.me/design/skin-your-chrome-inspector
 }
 
 #elements-content .selection.selected {
-	z-index: 0 !important;
+
 }
 
 #elements-content ol:focus li.selected .selection {
@@ -196,8 +196,7 @@ http://darcyclarke.me/design/skin-your-chrome-inspector
 }
 
 #elements-content .selected .highlight {
-	position: relative;
-	z-index: 2;
+
 }
 
 #elements-content .selected {
@@ -206,6 +205,7 @@ http://darcyclarke.me/design/skin-your-chrome-inspector
 
 #elements-content .editing {
 	background-color: #242424 !important;
+	color: #c1c1c1 !important;
 }
 
 #elements-content .parent::before {
@@ -218,12 +218,8 @@ http://darcyclarke.me/design/skin-your-chrome-inspector
 	content: url(chrome-devtools://devtools/Images/treeDownTriangleWhite.png) !important;
 }
 
-#elements-content .editing {
-	color: #c1c1c1 !important;
-}
-
 .styles-element-state-pane > table td {
-  color: #AAA;
+	color: #AAA;
 }
 
 /* SCRIPTS
