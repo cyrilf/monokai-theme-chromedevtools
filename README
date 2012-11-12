@@ -4,8 +4,9 @@ Chrome Developer Tools - Monokai Color Theme
 Installation: 
 ----------------
 
-1. Find your Chrome's user stylesheet's directory, for example in win7:
- "c:\Users\***YOUR USERNAME***\AppData\Local\Google\Chrome\User Data\Default\User StyleSheets\"
+1. Find your Chrome's user stylesheet's directory, for example
+- win7: "c:\Users\***YOUR USERNAME***\AppData\Local\Google\Chrome\User Data\Default\User StyleSheets\"
+- mac os x: "~/Library/Application\ Support/Google/Chrome/Default/User\ StyleSheets/"
 
 2. Replace the existing "Custom.css" file with this one
 
