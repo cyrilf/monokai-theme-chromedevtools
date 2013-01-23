@@ -420,3 +420,21 @@ http://darcyclarke.me/design/skin-your-chrome-inspector
 #scripts-split-view .webkit-css-comment {
 	color: grey !important;
 }
+
+/* Readable events panel */
+#main #main-panels .event-bars .event-bar .source-code {
+	background-color: #DDD !important;
+	border-bottom: 1px solid #BBB;
+}
+#main #main-panels .event-bars .event-bar:last-child .source-code {
+	border-bottom: 0px;
+}
+#main #main-panels .event-bars .event-bar .header .subtitle {
+	color: #333 !important;
+}
+#main #main-panels .event-bars .event-bar .event-properties {
+	background-color: #BBB !important;
+}
+#main #main-panels .event-bars .event-bar .event-properties .name {
+	color: #881391 !important;
+}
