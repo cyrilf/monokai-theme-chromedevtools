@@ -408,13 +408,13 @@ button.status-bar-item.toggled-on .glyph {
 ----------------------------------------------------------------------------------------------------------*/
 #console-prompt {
   color: #c1c1c1 !important;
-  font-size: 13px !important;
+  font-size: 11px !important;
   border:none !important;
 }
 
 #console-messages .monospace,
 #console-messages .source-code {
-  font-size: 13px !important;
+  font-size: 11px !important;
 }
 
 .console-message, .console-user-command {
@@ -422,7 +422,7 @@ button.status-bar-item.toggled-on .glyph {
 }
 
 #console-message {
-  font-size: 13px !important;
+  font-size: 11px !important;
   border:none !important;
 }
 

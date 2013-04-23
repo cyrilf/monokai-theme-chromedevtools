@@ -1,5 +1,7 @@
 # Chrome Developer Tools - Monokai Color Theme
 
+![Monokai theme](http://i.imgur.com/QEAo7if.png)
+
 ## Installation:
 
 1. Find your Chrome's user stylesheets directory:
