@@ -1,4 +1,6 @@
-# Chrome Developer Tools - Monokai Color Theme
+# Chrome Dev Tools - Monokai Color Theme
+
+> :warning: This repository is no longer supported. Due to a lot of changes on each new Chrome releases, I can't maintain the stylesheet for the Chrome Dev Tools.
 
 ![Monokai theme](http://i.imgur.com/QEAo7if.png)
 
